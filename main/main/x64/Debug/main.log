@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  Pipe.cpp
+  Generating Code...
+C:\Users\shant\source\repos\main\main\Game.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Game.cpp')
+  
+C:\Users\shant\source\repos\main\main\Pipe.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Pipe.cpp')
+  
